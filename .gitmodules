@@ -9,5 +9,5 @@
 	url = https://github.com/MaJerle/lwrb
 [submodule "CANopenNode"]
 	path = CANopenNode
-	url = https://github.com/CANopenNode/CANopenNode
+	url = https://github.com/ihor-ziuba/CANopenNode
 	branch = master
